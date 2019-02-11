@@ -53,7 +53,7 @@ export default class App extends LightningElement {
         container.appendChild(el);
     }
 
-    handleNavigateEvent(evt) {
+    handleNavigationEvent(evt) {
         const { path } = evt.detail;
         this.router.navigate(path);
     }
