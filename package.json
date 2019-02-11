@@ -18,6 +18,7 @@
     "cpy": "^7.0.1",
     "eslint": "^5.13.0",
     "express": "^4.16.4",
+    "http-server": "^0.11.1",
     "jest": "^24.1.0",
     "rollup": "^1.1.2",
     "rollup-plugin-alias": "^1.5.1",
